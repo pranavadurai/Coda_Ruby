@@ -5,8 +5,8 @@ class SongsController < ApplicationController
     puts @songs.name
   end
 
-  def song
-    @song = Song.find(params[:id])
+  def show  
+    @song = Song.find_by(rank: params[:id])
   end
 
 end
