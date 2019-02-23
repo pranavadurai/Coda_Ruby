@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  artists: 
+  danceability: 
+  energy: 
+  key: 
+  loudness: MyString
+  mode: 1
+  speechiness: 
+  acousticness: 
+  instrumentalness: 
+  liveness: 
+  valence: 
+  tempo: 
+  duration_ms: 
+  time_signature: 1
+  rank: 1
+
+two:
+  name: 
+  artists: 
+  danceability: 
+  energy: 
+  key: 
+  loudness: MyString
+  mode: 1
+  speechiness: 
+  acousticness: 
+  instrumentalness: 
+  liveness: 
+  valence: 
+  tempo: 
+  duration_ms: 
+  time_signature: 1
+  rank: 1
